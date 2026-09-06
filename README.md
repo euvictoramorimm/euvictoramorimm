@@ -22,28 +22,28 @@ Paralelamente, curso **Técnico em Informática** e desenvolvo projetos próprio
 
 ---
 
-### 🚀 Projetos
+### Projetos
 
-#### 💰 [OrçaPro](https://github.com/euvictoramorimm/OrcaPro)
+#### [OrçaPro](https://github.com/euvictoramorimm/OrcaPro)
 Sistema Web voltado à gestão de marcenarias.
 
 Aplicação desenvolvida com **React, TypeScript, Node.js e PostgreSQL**, envolvendo construção e consumo de **APIs REST**, autenticação, regras de negócio e integração entre frontend, backend e banco de dados.
 
-#### 🤖 [AgenteChat](https://github.com/MateusMunaro/agenteChat)
+#### [AgenteChat](https://github.com/MateusMunaro/agenteChat)
 Projeto colaborativo de uma plataforma SaaS de atendimento com IA para **qualificação de leads, atendimento e agendamentos**.
 
 Participo da evolução da aplicação em ambiente colaborativo, que utiliza **Next.js, React, TypeScript, Python/FastAPI e PostgreSQL**, além de APIs REST, autenticação, integrações externas, filas assíncronas e recursos de IA com RAG.
 
-🌐 **Projeto online:** [zapbotchat.com.br](https://zapbotchat.com.br)
+**Projeto online:** [zapbotchat.com.br](https://zapbotchat.com.br)
 
-#### 🏐 [Rotação 5x1](https://github.com/euvictoramorimm/rotacao_5x1)
+#### [Rotação 5x1](https://github.com/euvictoramorimm/rotacao_5x1)
 Aplicativo Android em desenvolvimento para ensinar o sistema de rotação 5x1 do vôlei de forma **interativa e gamificada**.
 
 Desenvolvido com **Flutter**, utilizando **Android Studio** para testes e visualização das telas, com foco em lógica de negócio, UX/UI e desenvolvimento mobile.
 
 ---
 
-### 🛠 Stack
+### Stack
 
 <table>
   <tr>
@@ -77,7 +77,7 @@ Desenvolvido com **Flutter**, utilizando **Android Studio** para testes e visual
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -92,13 +92,13 @@ Desenvolvido com **Flutter**, utilizando **Android Studio** para testes e visual
 
 ---
 
-### 🤝 Contato
+### Contato
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-euvictoramorimm-181717?style=for-the-badge&logo=github)](https://github.com/euvictoramorimm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20de%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-amorim-rodrigues-9a2819228/)
 
-📍 Montenegro, RS — Brasil
+Montenegro, RS, Brasil
 
 </div>
